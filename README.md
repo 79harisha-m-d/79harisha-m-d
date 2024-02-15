@@ -18,8 +18,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=79harisha-m-d&show_icons=true&locale=en&layout=compact" alt="79harisha-m-d" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-voidScribe&show_icons=true&locale=en&layout=compact" alt="harish-voidScribe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=79harisha-m-d&show_icons=true&locale=en" alt="79harisha-m-d" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-voidScribe&show_icons=true&locale=en" alt="79harisha-m-d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=79harisha-m-d&" alt="79harisha-m-d" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-voidScribe&" alt="harish-voidScribe" /></p>
